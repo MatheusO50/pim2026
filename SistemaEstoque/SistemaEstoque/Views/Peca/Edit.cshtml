@@ -1,0 +1,19 @@
+﻿@model Peca
+
+<h2>Editar Peça</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+        <label asp-for="Nome"></label>
+        <input asp-for="Nome" />
+    </div>
+
+    <div>
+        <label asp-for="Preco"></label>
+        <input asp-for="Preco" />
+    </div>
+
+    <button type="submit">Salvar</button>
+</form>

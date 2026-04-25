@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|c:\\users\\mathe\\desktop\\pim\\sistemaestoque\\sistemaestoque\\models\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|solutionrelative:sistemaestoque\\models\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|c:\\users\\mathe\\desktop\\pim\\sistemaestoque\\sistemaestoque\\controllers\\pecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|solutionrelative:sistemaestoque\\controllers\\pecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|c:\\users\\mathe\\desktop\\pim\\sistemaestoque\\sistemaestoque\\views\\peca\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|solutionrelative:sistemaestoque\\views\\peca\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|c:\\users\\mathe\\desktop\\pim\\sistemaestoque\\sistemaestoque\\views\\peca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|solutionrelative:sistemaestoque\\views\\peca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|c:\\users\\mathe\\desktop\\pim\\sistemaestoque\\sistemaestoque\\views\\peca\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|solutionrelative:sistemaestoque\\views\\peca\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|c:\\users\\mathe\\desktop\\pim\\sistemaestoque\\sistemaestoque\\views\\peca\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|solutionrelative:sistemaestoque\\views\\peca\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|c:\\users\\mathe\\desktop\\pim\\sistemaestoque\\sistemaestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|solutionrelative:sistemaestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|c:\\users\\mathe\\desktop\\pim\\sistemaestoque\\sistemaestoque\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E9FEC4-5CF2-46EA-ACD9-D8B87EB679A6}|SistemaEstoque\\SistemaEstoque.csproj|solutionrelative:sistemaestoque\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Views\\Peca\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaEstoque\\Views\\Peca\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Views\\Peca\\Create.cshtml",
+              "RelativeToolTip": "SistemaEstoque\\Views\\Peca\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T19:30:46.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Views\\Peca\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaEstoque\\Views\\Peca\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Views\\Peca\\Index.cshtml",
+              "RelativeToolTip": "SistemaEstoque\\Views\\Peca\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T19:12:00.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Models\\Peca.cs",
+              "RelativeDocumentMoniker": "SistemaEstoque\\Models\\Peca.cs",
+              "ToolTip": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Models\\Peca.cs",
+              "RelativeToolTip": "SistemaEstoque\\Models\\Peca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:04:32.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PecaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Controllers\\PecaController.cs",
+              "RelativeDocumentMoniker": "SistemaEstoque\\Controllers\\PecaController.cs",
+              "ToolTip": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Controllers\\PecaController.cs",
+              "RelativeToolTip": "SistemaEstoque\\Controllers\\PecaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwD0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:10:00.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Views\\Peca\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SistemaEstoque\\Views\\Peca\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Views\\Peca\\Delete.cshtml",
+              "RelativeToolTip": "SistemaEstoque\\Views\\Peca\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T19:44:21.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Views\\Peca\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SistemaEstoque\\Views\\Peca\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Views\\Peca\\Edit.cshtml",
+              "RelativeToolTip": "SistemaEstoque\\Views\\Peca\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T19:43:31.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaEstoque\\Program.cs",
+              "ToolTip": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Program.cs",
+              "RelativeToolTip": "SistemaEstoque\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:08:38.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaEstoque\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mathe\\Desktop\\Pim\\SistemaEstoque\\SistemaEstoque\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SistemaEstoque\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:07:00.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
